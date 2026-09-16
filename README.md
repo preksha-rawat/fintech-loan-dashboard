@@ -8,4 +8,4 @@ Report Sections:
 
 3. Credit Risk & Revenue: Analyzes Non-Performing Assets (NPA) and interest income by city.
 
-4. 
+
