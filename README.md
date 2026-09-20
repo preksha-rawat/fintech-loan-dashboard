@@ -8,7 +8,7 @@ The dashboard provides insights into loan disbursement, repayment performance, d
 
 The report consists of three interactive pages designed to analyze different aspects of the loan portfolio.
 
----
+
 
 ## Objectives
 
@@ -24,7 +24,7 @@ The main objectives of this project are:
 - Monitor monthly and yearly trends
 - Provide interactive filtering for data analysis
 
----
+
 
 ## Report Pages
 
@@ -45,9 +45,8 @@ It includes:
 
 This page provides an overall view of the loan portfolio and its risk distribution.
 
-![Overview](Screenshots/Overview.png)
+<img width="852" height="398" alt="Screenshot 2026-09-16 222812" src="https://github.com/user-attachments/assets/421564e2-d572-40a8-a63e-f6f57ce6f480" />
 
----
 
 ### 2. Repayment & Delinquency
 
@@ -65,9 +64,10 @@ It includes:
 
 This page helps analyze repayment behavior and identify delinquency patterns across different risk categories and customer segments.
 
-![Repayment & Delinquency](Screenshots/Repayment.png)
+<img width="836" height="391" alt="Screenshot 2026-09-16 223028" src="https://github.com/user-attachments/assets/d5a35697-4a9d-4f96-80f8-f7d102ab2c0c" />
 
----
+
+
 
 ### 3. Credit Risk and Revenue
 
@@ -84,9 +84,8 @@ It includes:
 
 This page helps analyze credit risk and revenue performance across different loan types and locations.
 
-![Credit Risk and Revenue](Screenshots/CreditRisk.png)
+<img width="774" height="386" alt="Screenshot 2026-09-16 223150" src="https://github.com/user-attachments/assets/6a27c56f-31de-45b1-a10c-9fb6a3a2a21b" />
 
----
 
 ## Key Metrics
 
@@ -102,7 +101,7 @@ This page helps analyze credit risk and revenue performance across different loa
 | Total Interest Income | Total interest income generated |
 | Total NPA Amount | Total amount associated with non-performing loans |
 
----
+
 
 ## Interactive Features
 
@@ -118,7 +117,6 @@ The dashboard includes:
 - Risk distribution analysis
 - Comparative analysis across loan types and locations
 
----
 
 ## Tools Used
 
